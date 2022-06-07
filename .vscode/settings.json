@@ -125,5 +125,6 @@
     },
     "cmake.configureOnEdit": false,
     "cmake.configureOnOpen": false,
-    "cmake.generator": "Ninja"
+    "cmake.generator": "Ninja",
+    "python.terminal.activateEnvironment": false
 }
