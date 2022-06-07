@@ -1,4 +1,4 @@
-#include "something.h"
+#include "something.hpp"
 
 void Something::SomeMethod() {
 
